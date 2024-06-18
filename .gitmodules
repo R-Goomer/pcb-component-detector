@@ -11,5 +11,5 @@
 	path = Notebooks/yolov5
 	url = https://github.com/ultralytics/yolov5.git
 [submodule "Notebooks/yolov5_a"]
-	path = Notebooks/my_yolo
+	path = Notebooks/yolov5_a
 	url = https://github.com/ultralytics/yolov5.git
