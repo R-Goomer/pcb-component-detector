@@ -1,0 +1,5 @@
+train: /Users/rgoomer/Desktop/PCB_Detector_Yolo/pcb-component-detector/data/train/images
+val: /Users/rgoomer/Desktop/PCB_Detector_Yolo/pcb-component-detector/data/valid/images
+
+nc: 9
+names: ['Cap1', 'Cap2', 'Cap3', 'Cap4', 'MOSFET', 'Mov', 'Resestor', 'Resistor', 'Transformer']
