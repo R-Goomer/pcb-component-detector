@@ -5,6 +5,8 @@ from pathlib import Path
 import shutil
 import os
 
+!pip install torch==2.3.1
+
 # Function to run YOLOv5 inference and return annotated image path
 def run_yolov5_inference(image_path, output_dir):
     command = [
