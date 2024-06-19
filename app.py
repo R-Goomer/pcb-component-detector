@@ -8,7 +8,7 @@ import os
 import subprocess
 import sys
 
-subprocess.check_call([sys.executable, "-m", "pip", "install", torch==2.3.1])
+subprocess.check_call([sys.executable, "-m", "pip", "install", torch])
 
 # Function to run YOLOv5 inference and return annotated image path
 def run_yolov5_inference(image_path, output_dir):
