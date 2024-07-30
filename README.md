@@ -2,6 +2,11 @@
 
 This project aims to develop an industry-level application for detecting components on a PCB (Printed Circuit Board) using the YOLO (You Only Look Once) model. The end goal is to deploy the application on Hugging Face Spaces using Streamlit, where users can upload PCB images and get an output image with bounding boxes around detected components and a list of detected elements.
 
+![VID20210601144135-60_jpg rf 3b5b8095777c34e35f8a9b371705d09a](https://github.com/user-attachments/assets/07eda0a7-759d-479a-8318-7e92cf4a4d12)
+![VID20210601144014-60_jpg rf e8dd6d1c1b99a64408bba5cdcc081de7](https://github.com/user-attachments/assets/fd2a3b9a-56c1-48fa-866b-7a3bfc3e80b8)
+![VID20210601143927-96_jpg rf 41cbb5bbd3e96291d5dd3edefda753be](https://github.com/user-attachments/assets/49490450-3e0b-4e23-8492-6225c0572863)
+
+
 ## Table of Contents
 
 - [Project Structure](#project-structure)
